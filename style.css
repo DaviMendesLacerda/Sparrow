@@ -1,5 +1,14 @@
+   body {
+    color: azure;
+    background: black;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    margin: 0PX;
+    margin-bottom: 100px;
+}
+
+
 .chamada{
-    background: rgb(156, 156,213);
+    background: rgb(255, 238, 2);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
